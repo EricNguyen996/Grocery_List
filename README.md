@@ -1,2 +1,2 @@
 # Grocery_List
-Grocery list for Block 6
+Mini grocery shopping list
