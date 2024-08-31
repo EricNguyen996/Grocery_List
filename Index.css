@@ -3,6 +3,7 @@ h3{
   font-family: Arial;
   text-align: center;
   font-size:  40px;
+  color: purple;
 }
 
 h2{
@@ -15,6 +16,7 @@ h2{
   padding-right: 600px;
   padding-top: 10px;
   padding-bottom: 10px;
+  color: darkgreen;
 }
 
 
@@ -42,6 +44,7 @@ section {
   height: 170px;
   margin-right: 22px;
   margin-top: 0;
+  border: 1px solid black
 }
 
 li{
@@ -49,9 +52,10 @@ li{
 }
 
 img {
-  width: 190px;
+  width: 200px;
   height: 170px;
   vertical-align: top;
+  padding-left: 10px;
 }
 
 
